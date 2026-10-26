@@ -19,3 +19,7 @@ models/
 *.log
 coverage.xml
 htmlcov/
+
+# Generated datasets and training reports
+/data/processed/hourly_electricity.csv
+/reports/*.json
